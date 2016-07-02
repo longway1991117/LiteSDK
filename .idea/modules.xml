@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAsync/AndroidAsync.iml" filepath="$PROJECT_DIR$/AndroidAsync/AndroidAsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App-Framework/App-Framework.iml" filepath="$PROJECT_DIR$/App-Framework/App-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App-Framework/app/App-Framework-app.iml" filepath="$PROJECT_DIR$/App-Framework/app/App-Framework-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiteSDK.iml" filepath="$PROJECT_DIR$/LiteSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/LiteSDK-app.iml" filepath="$PROJECT_DIR$/app/LiteSDK-app.iml" />
+    </modules>
+  </component>
+</project>

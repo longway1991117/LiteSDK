@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/longway/Documents/gitRepository/LiteSDK/AndroidAsync/build/intermediates/res/merged/androidTest/debug/raw/keystore.bks",
+        "source": "/Users/longway/Documents/gitRepository/LiteSDK/AndroidAsync/test/res/raw/keystore.bks"
+    },
+    {
+        "merged": "/Users/longway/Documents/Android/app/projects/MPTPAPP/AndroidAsync/build/intermediates/res/merged/androidTest/debug/raw/keystore.bks",
+        "source": "/Users/longway/Documents/Android/app/projects/MPTPAPP/AndroidAsync/test/res/raw/keystore.bks"
+    }
+]
